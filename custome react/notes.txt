@@ -1,0 +1,4 @@
+use a bundler to parse the jsx into a tree like onject 
+babble
+
+at the end a componet is a basic function
