@@ -1,1 +1,4 @@
 Components first letter should be in capital letter
+
+parellet dom is reacted by the react which helps us to create single pager we site 
+it compare the browser crated dom and it's virtual dom and updates the elemts which are differnt
